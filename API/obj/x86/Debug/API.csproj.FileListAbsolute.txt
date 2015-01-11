@@ -1,0 +1,10 @@
+F:\git\API\API\API\bin\Debug\API.exe
+F:\git\API\API\API\bin\Debug\API.pdb
+F:\git\API\API\API\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\git\API\API\API\obj\x86\Debug\API.exe
+F:\git\API\API\API\obj\x86\Debug\API.pdb
+F:\git\API\API\obj\x86\Debug\API.exe
+F:\git\API\API\obj\x86\Debug\API.pdb
+F:\git\API\API\bin\Debug\API.exe
+F:\git\API\API\bin\Debug\API.pdb
+F:\git\API\API\obj\x86\Debug\ResolveAssemblyReference.cache

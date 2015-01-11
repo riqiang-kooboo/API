@@ -1,0 +1,10 @@
+F:\git\API\API\API.Weixin.Test\bin\Debug\API.Weixin.Test.dll
+F:\git\API\API\API.Weixin.Test\bin\Debug\API.Weixin.Test.pdb
+F:\git\API\API\API.Weixin.Test\obj\Debug\ResolveAssemblyReference.cache
+F:\git\API\API\API.Weixin.Test\obj\Debug\API.Weixin.Test.dll
+F:\git\API\API\API.Weixin.Test\obj\Debug\API.Weixin.Test.pdb
+F:\git\API\API.Weixin.Test\bin\Debug\API.Weixin.Test.dll
+F:\git\API\API.Weixin.Test\bin\Debug\API.Weixin.Test.pdb
+F:\git\API\API.Weixin.Test\obj\Debug\ResolveAssemblyReference.cache
+F:\git\API\API.Weixin.Test\obj\Debug\API.Weixin.Test.dll
+F:\git\API\API.Weixin.Test\obj\Debug\API.Weixin.Test.pdb

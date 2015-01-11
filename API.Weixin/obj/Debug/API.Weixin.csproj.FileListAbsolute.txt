@@ -1,0 +1,10 @@
+F:\git\API\API\API.Weixin\bin\Debug\API.Weixin.dll
+F:\git\API\API\API.Weixin\bin\Debug\API.Weixin.pdb
+F:\git\API\API\API.Weixin\obj\Debug\ResolveAssemblyReference.cache
+F:\git\API\API\API.Weixin\obj\Debug\API.Weixin.dll
+F:\git\API\API\API.Weixin\obj\Debug\API.Weixin.pdb
+F:\git\API\API.Weixin\bin\Debug\API.Weixin.dll
+F:\git\API\API.Weixin\bin\Debug\API.Weixin.pdb
+F:\git\API\API.Weixin\obj\Debug\ResolveAssemblyReference.cache
+F:\git\API\API.Weixin\obj\Debug\API.Weixin.dll
+F:\git\API\API.Weixin\obj\Debug\API.Weixin.pdb
